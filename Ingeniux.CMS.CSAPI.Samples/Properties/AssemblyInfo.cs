@@ -10,7 +10,7 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("City of Seattle")]
 [assembly: AssemblyProduct("Ingeniux.CMS.CSAPI.Samples")]
-[assembly: AssemblyCopyright("Copyright © City of Seattle 2017")]
+[assembly: AssemblyCopyright("")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
