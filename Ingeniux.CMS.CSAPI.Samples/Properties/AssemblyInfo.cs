@@ -8,7 +8,7 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTitle("Ingeniux.CMS.CSAPI.Samples")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("City of Seattle")]
+[assembly: AssemblyCompany("")]
 [assembly: AssemblyProduct("Ingeniux.CMS.CSAPI.Samples")]
 [assembly: AssemblyCopyright("")]
 [assembly: AssemblyTrademark("")]
